@@ -10,6 +10,9 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -24,3 +27,21 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.flowerVase{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.flowers{
+
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;    
+  text-align: center;       
+}
+
+
+
